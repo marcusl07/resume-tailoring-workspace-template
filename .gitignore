@@ -1,0 +1,15 @@
+# Personal source and reference documents
+template resume.docx
+template cover letter.docx
+project-bank.md
+skills-bank.md
+AGENTS.md
+
+# Generated and role-specific material
+output/
+*.pdf
+tasks/
+*.docx
+
+# macOS metadata
+.DS_Store
